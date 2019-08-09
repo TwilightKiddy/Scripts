@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Animevost no comments background
 // @match        https://animevost.org/*
-// @version      1.0
+// @version      1.1
+// @updateURL    https://raw.githubusercontent.com/oKiddYo/JSScripts/master/AnCB.js
 // @description  Resets nasty backgrounds on Animevost.org to default ones.
 // @author       oKiddYo
 // @grant        none
