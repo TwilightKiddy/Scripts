@@ -1,0 +1,9 @@
+https://adguard.com/en/filter-rules.html?id=1
+https://easylist-downloads.adblockplus.org/bitblock.txt
+https://easylist-downloads.adblockplus.org/cntblock.txt
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
+https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
+https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/russian.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/malware-domain-list.txt
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+https://www.malwaredomainlist.com/hostslist/ip.txt

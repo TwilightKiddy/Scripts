@@ -1,0 +1,64 @@
+#http://animevost.org
+agorov.org##div.moduleLeft:nth-of-type(2)
+agorov.org##div.moduleLeft:nth-of-type(4)
+agorov.org##div.moduleLeft:nth-of-type(5)
+agorov.org#$#div.menu {top: auto !important}
+agorov.org#$#div[class^="headbg"] > .menu .sar {bottom: auto !important; top: 50px !important; z-index: 100 !important}
+agorov.org#$#div[class^="headbg"] {background:transparent !important; height: auto !important}
+agorov.org##[src*="ban"]
+agorov.org##.banerTop
+agorov.org##div[class^=headbg] > a
+agorov.org##.shortstoryContent>center:nth-of-type(1)
+agorov.org##div#shortstoryContentTegi:nth-of-type(1)
+
+animevost.org##div.moduleLeft:nth-of-type(2)
+animevost.org##div.moduleLeft:nth-of-type(4)
+animevost.org##div.moduleLeft:nth-of-type(5)
+animevost.org#$#div.menu {top: auto !important}
+animevost.org#$#div[class^="headbg"] > .menu .sar {bottom: auto !important; top: 50px !important; z-index: 100 !important}
+animevost.org#$#div[class^="headbg"] {background:transparent !important; height: auto !important}
+animevost.org##[src*="ban"]
+animevost.org##.banerTop
+animevost.org##div[class^=headbg] > a
+animevost.org##.shortstoryContent>center:nth-of-type(1)
+animevost.org##div#shortstoryContentTegi:nth-of-type(1)
+
+# https://it-actual.ru
+it-actual.ru##.blk-2
+
+# https://forum.minecraft-galaxy.ru
+forum.minecraft-galaxy.ru##table.posts:nth-of-type(2)
+
+# http://vladdelphisite.narod.ru
+vladdelphisite.narod.ru###nativeroll_video_cont
+
+# https://www.digminecraft.com
+www.digminecraft.com###usernote
+www.digminecraft.com##.top_slot.slot
+www.digminecraft.com##.left_slot.slot
+
+# http://mathprofi.ru
+mathprofi.ru##td:nth-of-type(2) > noindex:nth-of-type(1)
+
+# https://coop-land.ru
+coop-land.ru###helpus
+
+# http://files.minecraftforge.net
+files.minecraftforge.net##.promo-downloads-top.promo-container-framed.promo-container
+files.minecraftforge.net##.promo-downloads-right.promo-container-framed.promo-container
+files.minecraftforge.net##.promo-downloads-bottom.promo-container-framed.promo-container
+files.minecraftforge.net##.sidebar-right
+
+! 26/08/2019 https://audiotag.info
+audiotag.info###adsclaim
+audiotag.info##.dialog-fog
+
+# https://www.heroesfire.com
+www.heroesfire.com##.adblock.ads-popup
+
+# https://utorrentgames.3dn.ru
+utorrentgames.3dn.ru###ucz_video
+utorrentgames.3dn.ru###u_preroll_counteradbetnet
+||utorrentgames.3dn.ru/.s/src/adv_scripts/static/banner.jpg$image
+utorrentgames.3dn.ru###wtcclick_885
+utorrentgames.3dn.ru###u_preroll_overlay
