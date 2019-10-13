@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/russian
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/malware-domain-list.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://www.malwaredomainlist.com/hostslist/ip.txt
+https://raw.githubusercontent.com/oKiddYo/Scripts/master/uBO/Kiddy's%20Filters.txt
