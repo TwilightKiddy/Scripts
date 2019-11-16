@@ -2,7 +2,7 @@
 // @name         Animevost no comments background
 // @match        https://animevost.org/*
 // @match        https://*.agorov.org/*
-// @version      1.1.1
+// @version      1.1.2
 // @updateURL    https://raw.githubusercontent.com/TwilightKiddy/Scripts/master/JS/AnCB.js
 // @downloadURL  https://raw.githubusercontent.com/TwilightKiddy/Scripts/master/JS/AnCB.js
 // @description  Resets nasty backgrounds on Animevost.org to default ones.
