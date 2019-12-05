@@ -64,3 +64,10 @@ utorrentgames.3dn.ru###u_preroll_counteradbetnet
 ||utorrentgames.3dn.ru/.s/src/adv_scripts/static/banner.jpg$image
 utorrentgames.3dn.ru###wtcclick_885
 utorrentgames.3dn.ru###u_preroll_overlay
+
+! https://derpibooru.org
+derpibooru.org###imagespns
+
+! https://rule34.xxx
+rule34.xxx##[href^="https://track.afcpatrk.com/"]
+rule34.xxx#$#body {background: #aae5a3 !important;}
